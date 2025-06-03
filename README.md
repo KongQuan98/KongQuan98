@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongquan98&label=Profile%20views&color=0e75b6&style=flat" alt="kongquan98" /> </p>
 
-- 🌱 I’m currently learning and improving understanding in **mobile development especially in Android 🤖**
+- 🌱 I’m currently learning and improving my understanding in **mobile development especially in Android 🤖**
 
 - 💬 My focus is on **Android, Kotlin, Java**
 
