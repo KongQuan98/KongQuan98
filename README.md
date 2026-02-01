@@ -1,15 +1,22 @@
-<h1>Hello! Kong Quan here! 😎</h1>
+<h1>Hello! I'm Kong Quan! 😎</h1>
 <h3>A mobile application developer / tech enthusiasts from Malaysia 🥸🇲🇾</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongquan98&label=Profile%20views&color=0e75b6&style=flat" alt="kongquan98" /> </p>
 
-- 🌱 I’m currently learning and improving my understanding in **mobile development especially in Android 🤖**
-
-- 💬 My focus is on **Android, Kotlin, Java**
-
-- ⚡ Fun fact **I like outdoor activities but I prefer to stay in**
+- 🌱 Currently learning and improving my understanding in **mobile development especially in Android 🤖**
+- 💬 Focus on **Android, Kotlin, Java**
+- ⚡ **Enjoy outdoor activities but I prefer to stay in**
 
 <br>
+
+<h3>Projects that can run</h3>
+
+- 🐍 [SnakeGame](https://github.com/KongQuan98/SnakeGame) - Snake game built on 2025 (hobby project to build games with native Android)
+- 🍿 [MovieApps](https://github.com/KongQuan98/MovieApps) - Movie apps built on 2024 (structured Jetpack Compose MVVM architecture for interview purpose)
+- ✌🏼 [SiLearn](https://github.com/KongQuan98/SiLearnPlatform) - sign language learning apps built on 2022 (my university final year project)
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kongquanlye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kongquanlye" height="30" width="40" /></a>
