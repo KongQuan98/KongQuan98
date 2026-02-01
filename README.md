@@ -12,7 +12,7 @@
 <h3>Projects that can run</h3>
 
 - 🐍 [SnakeGame](https://github.com/KongQuan98/SnakeGame) - Snake game built on 2025 (hobby project to build games with native Android)
-- 🍿 [MovieApps](https://github.com/KongQuan98/MovieApps) - Movie apps built on 2024 (structured Jetpack Compose MVVM architecture for interview purpose)
+- 🍿 [MovieApps](https://github.com/KongQuan98/MovieApps) - Movie apps built on 2024 (structured MVVM architecture for interview purpose)
 - ✌🏼 [SiLearn](https://github.com/KongQuan98/SiLearnPlatform) - sign language learning apps built on 2022 (my university final year project)
 
 <br>
